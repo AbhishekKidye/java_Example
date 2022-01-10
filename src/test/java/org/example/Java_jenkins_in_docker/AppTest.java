@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-    	assertTrue(App.checkIfInputIsAnEvenNumber(23)); //Assertion
+    	assertTrue(App.checkIfInputIsAnEvenNumber(22)); //Assertion
     }
 }
